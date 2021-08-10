@@ -14,6 +14,8 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
+          # template
+          template: classic
           # intro
           plugin_introduction: yes
           plugin_introduction_title: no # Hide section title
