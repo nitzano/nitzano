@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/nitzano?template=classic&config.timezone=Asia%2FJerusalem)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
