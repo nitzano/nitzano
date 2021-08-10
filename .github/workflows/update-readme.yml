@@ -14,3 +14,5 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          # languages
+          plugin_languages: yes
