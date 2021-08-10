@@ -1,1 +1,1 @@
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+![Metrics](https://github.com/nitzano/nitzano/blob/main/github-metrics.svg)
