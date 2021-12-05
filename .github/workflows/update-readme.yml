@@ -19,10 +19,8 @@ jobs:
           plugin_introduction_title: no # Hide section title
           # languages
           plugin_languages: yes
-          # pagespeed
-          # might require more tokens
-          # plugin_pagespeed: yes
-          # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} # Optional but recommended
-          # plugin_pagespeed_detailed: no # Print detailed audit metrics
-          # plugin_pagespeed_screenshot: no # Display a screenshot of your website
-          # plugin_pagespeed_url: .user.website # Website to audit (defaults to your GitHub linked website)
+          # topics plugins
+          plugin_topics: yes
+          plugin_topics_sort: stars    # Sort by most starred topics
+          plugin_topics_mode: icons    # Display icons instead of labels
+          plugin_topics_limit: 0       # Disable limitations
